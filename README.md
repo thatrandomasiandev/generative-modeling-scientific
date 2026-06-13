@@ -150,16 +150,16 @@ src/gen_sci/
 
 ## References
 
-- Candès, E. J., Romberg, J., & Tao, T. (2006). Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information. *IEEE TIT*.
-- Chung, H., et al. (2022). Improving diffusion models for inverse problems using manifold constraints. *NeurIPS*.
-- Chung, H., et al. (2023). Diffusion posterior sampling for general noisy inverse problems. *ICLR*.
-- Donoho, D. L. (2006). Compressed sensing. *IEEE TIT*.
-- Gómez-Bombarelli, R., et al. (2018). Automatic chemical design using a data-driven continuous representation of molecules. *ACS Central Science*.
-- Gretton, A., Borgwardt, K., Rasch, M., Schölkopf, B., & Smola, A. (2012). A kernel two-sample test. *JMLR*.
-- Ho, J., Jain, A., & Abbeel, P. (2020). Denoising diffusion probabilistic models. *NeurIPS*.
-- Nichol, A. Q., & Dhariwal, P. (2021). Improved denoising diffusion probabilistic models. *ICML*.
-- Song, Y., et al. (2021). Score-based generative modeling through stochastic differential equations. *ICLR*.
-- Tibshirani, R. (1996). Regression shrinkage and selection via the lasso. *JRSS-B*.
+- Candès, E. J., Romberg, J., & Tao, T. (2006). Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information. *IEEE TIT*, 52(2), 489–509. [DOI](https://doi.org/10.1109/TIT.2005.860985)
+- Chung, H., et al. (2022). Improving diffusion models for inverse problems using manifold constraints. *NeurIPS*. [arXiv](https://arxiv.org/abs/2206.00941)
+- Chung, H., et al. (2023). Diffusion posterior sampling for general noisy inverse problems. *ICLR*. [arXiv](https://arxiv.org/abs/2209.14687)
+- Donoho, D. L. (2006). Compressed sensing. *IEEE TIT*, 52(4), 1289–1306. [DOI](https://doi.org/10.1109/TIT.2006.871582)
+- Gómez-Bombarelli, R., et al. (2018). Automatic chemical design using a data-driven continuous representation of molecules. *ACS Central Science*, 4(2), 268–276. [DOI](https://doi.org/10.1021/acscentsci.7b00512)
+- Gretton, A., Borgwardt, K., Rasch, M., Schölkopf, B., & Smola, A. (2012). A kernel two-sample test. *JMLR*, 13, 723–773. [Paper](https://jmlr.org/papers/v13/gretton12a.html)
+- Ho, J., Jain, A., & Abbeel, P. (2020). Denoising diffusion probabilistic models. *NeurIPS*. [arXiv](https://arxiv.org/abs/2006.11239)
+- Nichol, A. Q., & Dhariwal, P. (2021). Improved denoising diffusion probabilistic models. *ICML*. [arXiv](https://arxiv.org/abs/2102.09672)
+- Song, Y., et al. (2021). Score-based generative modeling through stochastic differential equations. *ICLR*. [arXiv](https://arxiv.org/abs/2011.13456)
+- Tibshirani, R. (1996). Regression shrinkage and selection via the lasso. *JRSS-B*, 58(1), 267–288. [DOI](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
 - Tikhonov, A. N., & Arsenin, V. Y. (1977). *Solutions of Ill-Posed Problems*. Winston.
 
 ---
