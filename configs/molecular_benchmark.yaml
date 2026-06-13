@@ -1,0 +1,4 @@
+seeds: [42, 43]
+eval_budgets: [200, 400]
+methods: [random, hill_climb, guided_diffusion]
+epochs: 50

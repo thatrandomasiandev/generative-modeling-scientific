@@ -1,0 +1,5 @@
+seeds: [42, 43]
+noise_levels: [0.02, 0.06, 0.10]
+solvers: [least_squares, tikhonov, lasso]
+timesteps: 30
+epochs: 50

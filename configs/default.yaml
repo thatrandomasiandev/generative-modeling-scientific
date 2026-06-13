@@ -1,0 +1,11 @@
+seed: 42
+seeds: [42, 43, 44]
+device: cpu
+timesteps: 50
+epochs: 80
+train_sizes: [2000, 4000]
+separations: [3.0, 5.0]
+noise_levels: [0.02, 0.08]
+solvers: [least_squares, tikhonov, lasso]
+eval_budgets: [200, 500]
+methods: [random, hill_climb, guided_diffusion]
