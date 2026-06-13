@@ -7,6 +7,8 @@ from gen_sci.inverse.metrics import (
     support_recovery,
 )
 from gen_sci.inverse.solvers import (
+    DPS_solve,
+    PGDM_solve,
     SOLVERS,
     InverseResult,
     diffusion_posterior_sample,
@@ -17,6 +19,8 @@ from gen_sci.inverse.solvers import (
 )
 
 __all__ = [
+    "DPS_solve",
+    "PGDM_solve",
     "SOLVERS",
     "InverseResult",
     "diffusion_posterior_sample",
